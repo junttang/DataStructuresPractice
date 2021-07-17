@@ -8,4 +8,4 @@ using nested loops.
 
 The Second Assignment is about the Heap data structure. The source contains both of the maximum heap and the minimum heap.
 
-The last homework is about 
+The last homework is about the Kruskal's Algorithm based on the minimum spanning trees, the minimum heap and the disjoint sets.
